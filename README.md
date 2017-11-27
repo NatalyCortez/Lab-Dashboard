@@ -12,6 +12,6 @@ El dashboard es una herramienta utilizada por profesores, training managers, dir
 
 Vista: 
 ----
-
+![](https://raw.githubusercontent.com/NatalyCortez/Lab-Dashboard/master/assets/images/dash1%20.JPG)
 ![](https://raw.githubusercontent.com/NatalyCortez/Lab-Dashboard/master/assets/images/dash2.JPG)
 ![](https://raw.githubusercontent.com/NatalyCortez/Lab-Dashboard/master/assets/images/dash3.JPG)
